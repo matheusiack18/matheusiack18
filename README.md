@@ -21,13 +21,13 @@
 <br>
 
 <center>
-
+<div align="center">
 <a href = "mailto:matheus.viiack@gmail.com"><img width="40px" src="https://img.icons8.com/?size=512&id=ho8QlOYvMuG3&format=png" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/matheus-iack-33a65b232/"><img width="40px" src="https://img.icons8.com/?size=512&id=13930&format=png" target="_blank"></a>
 <a href = "https://www.instagram.com/mt_iack/"><img width="40px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" target="_blank"></a>
 <a href = "https://www.facebook.com/matheus.iack.9/"><img width="40px" src="https://img.icons8.com/?size=512&id=yGcWL8copNNQ&format=png" target="_blank"></a>
 <a href = "https://github.com/matheusiack18"><img width="40px" src="https://img.icons8.com/?size=512&id=WCL5hPLvhUjQ&format=png" target="_blank"></a>
-
+</div>
 </center>
 
 <hr>
