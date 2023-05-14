@@ -53,7 +53,6 @@
 <br>
 <a href = "https://www.lammps.org/#gsc.tab=0"><img width = "40px" src = "https://avatars.githubusercontent.com/u/5199009?s=280&v=4"></a>
 <a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width = "40px" src = "https://img.icons8.com/?size=512&id=108784&format=png"></a>
-<a href = "https://www.lammps.org/#gsc.tab=0"><img width = "40px" src = "https://avatars.githubusercontent.com/u/5199009?s=280&v=4"></a>
 
 </div>
 </center>
