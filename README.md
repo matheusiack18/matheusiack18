@@ -22,11 +22,11 @@
 
 <center>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.iack.9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusiack18)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mt_iack/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-iack-33a65b232/)
-<a href = "mailto:matheus.viiack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheus.viiack@gmail.com"><img width="40px" src="https://img.icons8.com/?size=512&id=ho8QlOYvMuG3&format=png" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/matheus-iack-33a65b232/"><img width="40px" src="https://img.icons8.com/?size=512&id=13930&format=png" target="_blank"></a>
+<a href = "https://www.instagram.com/mt_iack/"><img width="40px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" target="_blank"></a>
+<a href = "https://www.facebook.com/matheus.iack.9/"><img width="40px" src="https://img.icons8.com/?size=512&id=yGcWL8copNNQ&format=png" target="_blank"></a>
+<a href = "https://github.com/matheusiack18"><img width="40px" src="https://img.icons8.com/?size=512&id=WCL5hPLvhUjQ&format=png" target="_blank"></a>
 
 </center>
 
@@ -36,6 +36,11 @@
 
  ## Main skills:
  <br>
+ <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img width = "40px" src = "https://img.icons8.com/?size=512&id=20909&format=png"></a>
+ <a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width ="40px" src = "https://img.icons8.com/?size=512&id=21278&format=png"></a>
+ <a href = "https://www.python.org"><img width ="40px" src = "https://img.icons8.com/?size=512&id=13441&format=png"></a>
+ <a href = "https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"><img width = "40px" src = "https://img.icons8.com/?size=512&id=40670&format=png"></a>
+
 
 </center>
 
@@ -45,6 +50,9 @@
 
 ## Studying in this moment:
 <br>
+<a href = "https://www.lammps.org/#gsc.tab=0"><img width = "40px" src = "https://avatars.githubusercontent.com/u/5199009?s=280&v=4"></a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width = "40px" src = "https://img.icons8.com/?size=512&id=108784&format=png"></a>
+<a href = "https://www.lammps.org/#gsc.tab=0"><img width = "40px" src = "https://avatars.githubusercontent.com/u/5199009?s=280&v=4"></a>
 
 
 </center>
