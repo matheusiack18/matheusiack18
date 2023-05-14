@@ -33,6 +33,7 @@
 <hr>
 
 <center>
+<div align="center">
 
  ## Main skills:
  <br>
@@ -40,13 +41,13 @@
  <a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img width ="40px" src = "https://img.icons8.com/?size=512&id=21278&format=png"></a>
  <a href = "https://www.python.org"><img width ="40px" src = "https://img.icons8.com/?size=512&id=13441&format=png"></a>
  <a href = "https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"><img width = "40px" src = "https://img.icons8.com/?size=512&id=40670&format=png"></a>
-
-
+</div>
 </center>
 
 <hr>
 
 <center>
+<div align="center">
 
 ## Studying in this moment:
 <br>
@@ -54,7 +55,7 @@
 <a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width = "40px" src = "https://img.icons8.com/?size=512&id=108784&format=png"></a>
 <a href = "https://www.lammps.org/#gsc.tab=0"><img width = "40px" src = "https://avatars.githubusercontent.com/u/5199009?s=280&v=4"></a>
 
-
+</div>
 </center>
 
 <hr>
